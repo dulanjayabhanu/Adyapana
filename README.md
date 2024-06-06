@@ -65,7 +65,7 @@ STAND ALONE STUDENT MANAGEMENT SYSTEM
 
 ## Usage 🚀
 
-After setting up the application, navigate to `http://localhost:3000` in your web browser. Use the provided interface to manage student and teacher enrolments, subject registrations, payments, attendance, and more.
+After setting up the application, navigate to `http://localhost/Adyapana` in your web browser. Use the provided interface to manage student and teacher enrolments, subject registrations, payments, attendance, and more.
 
 ### Admin Guide 👨‍💼
 
