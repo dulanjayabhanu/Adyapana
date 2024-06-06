@@ -34,7 +34,7 @@ STAND ALONE STUDENT MANAGEMENT SYSTEM
 **Adyapana** is a standalone student management system designed for students who have completed their Advanced Levels in the Science stream. This web application facilitates efficient management of various processes at the institute, which has more than 2500 students.
 
 <div>
-  <img src="assets/admin_dashboard.jpg" alt="Admin Dashboard" style="border-radius: 10px; margin: 10px;">
+  <img src="assets/admin_dashboard.png" alt="Admin Dashboard" style="border-radius: 10px; margin: 10px;">
 </div>
 
 ## Features
