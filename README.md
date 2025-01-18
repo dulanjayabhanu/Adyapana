@@ -31,7 +31,7 @@ STAND ALONE STUDENT MANAGEMENT SYSTEM
 
 ## Introduction
 
-**Adyapana** is a standalone student management system designed for students who have completed their Advanced Levels in the Science stream. This web application facilitates efficient management of various processes at the institute, which has more than 2500 students.
+**Adyapana** is a standalone student management system designed for students who have completed their Advanced Levels in the Science stream. This application facilitates efficient management of various processes at the institute, which has more than 2500 students.
 
 <div>
   <img src="assets/admin_dashboard.png" alt="Admin Dashboard" style="border-radius: 10px; margin: 10px;">
@@ -47,21 +47,6 @@ STAND ALONE STUDENT MANAGEMENT SYSTEM
 - **👨‍🎓👩‍🎓 Student and Teacher Enrolment for Subjects**: Enroll students and teachers in specific subjects.
 - **📅 Student Attendance**: Track and view student attendance for each class.
 - **📑 Due Reports**: Generate and view reports on dues for all classes.
-
-## Installation ⚙️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/adyapana.git
-2. Navigate to the project directory:
-   ```bash
-   cd adyapana
-3. Install dependencies:
-    ```bash
-   npm install
-4. Start the application:
-    ```bash
-   npm start
 
 ## Usage 🚀
 
